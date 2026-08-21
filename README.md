@@ -1,26 +1,131 @@
-<h1 align="center">Hi 👋, I'm Sotiris Sapakos</h1>
-<h3 align="center">Eager mid level software engineer experienced in developing android and windows native applications</h3>
+# Hi, I'm Sotiris 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sotirissapak&label=Profile%20views&color=0e75b6&style=flat" alt="sotirissapak" /> </p>
+### Android / Kotlin Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sotirissapak" alt="sotirissapak" /></a> </p>
+I build modern, maintainable applications with **Kotlin**, **Jetpack Compose**, and **Kotlin Multiplatform**, with a strong focus on architecture, testability, and clean engineering practices.
 
-- 💬 Ask me about **android, WPF and C#**
+I enjoy working on problems where software design matters just as much as the implementation — from state management and offline-first systems to domain logic, testing, and AI-driven decision making.
 
-- 📫 How to reach me **sotirisapakos@gmail.com**
+---
 
-<br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sotiris-sapakos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sotiris-sapakos" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/sotiris.sapakos.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sotiris.sapakos.18" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sotirissapakos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sotirissapakos/" height="30" width="40" /></a>
-</p>
+## 🧑‍💻 About Me
 
-<br/>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sotirissapak&show_icons=true&locale=en" alt="sotirissapak" /></p>
+* 📱 Android-focused developer with a strong Kotlin background
+* 🧩 Interested in **Clean Architecture, modularity, and scalable codebases**
+* 🧪 Strong focus on **testability, TDD, and deterministic business logic**
+* 🔄 Experienced with **Coroutines, Flow, StateFlow, and reactive state management**
+* 🌍 Exploring **Kotlin Multiplatform & Compose Multiplatform**
+* 📴 Interested in **offline-first application architecture**
+* 🤖 Exploring **Monte Carlo / MCTS algorithms and AI decision making**
+* 🛠️ I care about writing code that is easy to understand, test, maintain, and extend
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sotirissapak&" alt="sotirissapak" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square\&logo=kotlin\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+
+### Android & UI
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square\&logo=android\&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square\&logo=jetpackcompose\&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-7F52FF?style=flat-square\&logo=jetpackcompose\&logoColor=white)
+
+### Architecture & Development
+
+* Clean Architecture
+* MVVM / Unidirectional Data Flow
+* Repository Pattern
+* Dependency Injection
+* Kotlin Coroutines
+* Flow / StateFlow / SharedFlow
+* Modular Architecture
+* Offline-first design
+
+### Backend & Data
+
+* REST APIs
+* Supabase
+* SQL / Local persistence
+* Repository abstractions
+* Error handling & domain mapping
+
+### Testing
+
+* Unit Testing
+* TDD
+* Fake implementations
+* Repository testing
+* Domain/business-logic testing
+* Deterministic test design
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square\&logo=gradle\&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square\&logo=androidstudio\&logoColor=white)
+
+---
+
+# 🧠 Engineering Principles
+
+I try to approach software development around a few core principles:
+
+### Clean code over clever code
+
+Code should be easy to understand before it is optimized for cleverness.
+
+### Testability by design
+
+Testing shouldn't be something added after implementation. Architecture should make testing natural.
+
+### Business logic belongs in the domain
+
+Complex rules should not depend on Android or UI frameworks.
+
+### Explicit state
+
+I prefer predictable state transitions and unidirectional data flow over implicit side effects.
+
+### Small abstractions
+
+Abstractions should solve a real problem — especially around testability, platform dependencies, and changing implementations.
+
+### Edge cases matter
+
+A feature isn't finished when the happy path works.
+
+It is finished when the expected behavior is defined for failure, empty, invalid, offline, and unexpected states as well.
+
+---
+
+# 📚 Currently Exploring
+
+I'm continuously expanding my knowledge in areas such as:
+
+* Advanced Kotlin
+* Kotlin Multiplatform
+* Compose Multiplatform
+* Advanced Android architecture
+* Offline-first systems
+* TDD & testing strategies
+* Software architecture & system design
+
+---
+
+# 📫 Let's Connect
+
+I'm always interested in discussing **Android, Kotlin, software architecture, testing, and interesting engineering problems**.
+
+* 💼 LinkedIn: [Sotiris Sapakos](www.linkedin.com/in/sotiris-sapakos)
+* 🐙 GitHub: [@SotirisSapak](https://github.com/SotirisSapak)
+* 📧 Email: sotirisapakos@gmail.com
+
+---
+
+> **Build it. Test it. Understand it. Improve it.**
+
